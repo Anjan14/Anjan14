@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anjan14
 - 👀 I’m interested in palying different games. I enjoy playing soccer, and when I am home, I am busy trying to figure out my next chess move
 - 🌱 I’m currently learning C++ and python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything that would help me better understand the materials of the course... :)
 - 📫 How to reach me: ar567s@missouristate.edu
 
 <!---
