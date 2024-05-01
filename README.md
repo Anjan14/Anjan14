@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Anjan14
-- 👀 I’m interested in palying different games. I enjoy playing soccer, and when I am home, I am busy trying to figure out my next chess move
-- 🌱 I’m currently learning C++ and python
-- 💞️ I’m looking to collaborate on anything that would help me better understand the materials of the course... :)
-- 📫 How to reach me: ar567s@missouristate.edu // or ya'all can call/text me on my number: +1 417 838 2361
+Hi, welcome to my GitHub page. I am Anjan Roy. 
+If you cannot find me in class, I am probably playing chess!
 
 <!---
 Anjan14/Anjan14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
