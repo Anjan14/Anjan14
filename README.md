@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science and Math major at Missouri State University. <br>Open to collaboration on any meaningful projects. I strongly believe in the philosophical concept of Utilitarianism. A good project should foster the greatest amount of good for the greatest number of people. <br>Currently learning Machine Learning and AI models. <br>Looking forward to collaborating on open-source projects.
+Computer Science and Math major at Missouri State University. <br>Open to collaboration on any meaningful projects. I strongly believe in the philosophical concept of Utilitarianism. A good project should foster the greatest amount of good for the greatest number of people. <br>Currently learning Machine Learning and AI models. 
 
 
 ## 🌐 Socials:
