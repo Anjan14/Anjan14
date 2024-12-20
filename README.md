@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Computer Science major and Math minor at Missouri State University. <br>Open to collaboration on any meaningful projects. I strongly believe in the philosophical concept of Utilitarianism. A good project should foster the greatest amount of good for the greatest number of people. <br>Currently learning Machine Learning and AI models. 
 
 ## 🌐 Socials:
